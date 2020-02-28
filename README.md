@@ -1,6 +1,6 @@
 # AWS Glue Create DevEndpoint
 
-## Overall
+## Overview
 This repository holds tools to help interacting with AWS Glue Dev Endpoint
 
 ## Generating an RSA key
