@@ -1,0 +1,7 @@
+{
+    "region_name": "us-east-1",
+    "rsa_public": "/Users/yongyizhao/.ssh/id_rsa.pub",
+    "rsa_private": "/Users/yongyizhao/.ssh/id_rsa",
+    "dev_endpoint_name": "twitterglue",
+    "dev_endpoint_role": "arn:aws:iam::328221517888:role/service-role/AWSGlueServiceRole-twitter-glue"
+}
